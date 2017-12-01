@@ -1,0 +1,17 @@
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font: normal bold 20px 'Courier New'
+}
+
+.button:hover {
+    -fx-background-color: rgba(76,76,76,1);
+}
+
+#layout {
+    -fx-background-image: url('/Images/slot_machine.png');
+    -fx-background-size: 450 300;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+    -fx-background-repeat: stretch;
+}
