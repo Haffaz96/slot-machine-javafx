@@ -1,0 +1,47 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 interpreter library">
+      <CLASSES>
+        <root url="file://D:/Anaconda3/DLLs" />
+        <root url="file://D:/Anaconda3/Lib" />
+        <root url="file://D:/Anaconda3" />
+        <root url="file://D:/Anaconda3/Lib/site-packages" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/Babel-2.5.0-py3.6.egg" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/win32" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/-2036615904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Anaconda3/DLLs" />
+        <root url="file://D:/Anaconda3/Lib" />
+        <root url="file://D:/Anaconda3" />
+        <root url="file://D:/Anaconda3/Lib/site-packages" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/Babel-2.5.0-py3.6.egg" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/win32" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/win32/lib" />
+        <root url="file://D:/Anaconda3/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/python_stubs/-2036615904" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
